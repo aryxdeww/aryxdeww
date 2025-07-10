@@ -7,18 +7,18 @@
 
 ---
 
-### 🌟 Tentangku
-- 🔭 Lagi ngembangin webgame personal (XP & Level system)
-- 🧠 Ngoding mostly pake HTML, CSS, JS dan dikit-dikit Bash
-- 🌱 Lagi belajar dunia backend & sistem operasi ringan
-- 💬 Suka ngeluh tapi aksi 0 :v
+### 🧰 Tools & Setup
+- 🐧 Arch Linux + OpenBox
+- 💻 Celeron N2840 2Ghz + DDR3 2Gig
+- 🧩 Main terminal: Kitty
+- 🎨 Editor: LiteXL & nano (kalo males buka GUI)
 
 ---
 
-### 🧰 Tools & Setup
-- 🐧 Arch Linux + XFCE
-- 🧩 Main terminal: Kitty
-- 🎨 Editor: LiteXL & nano (kalo males buka GUI)
+### 🌟 About Me
+- 🔭 Lagi ngembangin webgame personal (XP & Level system)
+- 🧠 Ngoding mostly pake HTML, CSS, JS dan dikit-dikit Bash
+- 🌱 Lagi belajar dunia backend & sistem operasi ringan
 
 ---
 
