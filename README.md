@@ -23,7 +23,7 @@
 ---
 
 ### 🌐 Online Presence
-[![Website](https://img.shields.io/badge/Portofolio-Buka-blue?style=flat&logo=github)](https://aryadewangga.github.io)
+[![Website](https://img.shields.io/badge/Portofolio-Buka-blue?style=flat&logo=github)](https://aryxdeww.github.io)
 
 ---
 
