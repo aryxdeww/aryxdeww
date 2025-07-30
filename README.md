@@ -8,16 +8,15 @@
 ---
 
 ### 🧰 Tools & Setup
-- 🐧 Arch Linux + OpenBox
-- 💻 Celeron N2840 2Ghz + DDR3 2Gig
+- 🐧 Arch Linux
+- 💻 Celeron N2840 2Ghz + DDR3 2Gig ram
 - 🧩 Main terminal: Kitty
-- 🎨 Editor: LiteXL & nano (kalo males buka GUI)
+- 🎨 Editor: LiteXL & nano
 
 ---
 
 ### 🌟 About Me
-- 🔭 Lagi ngembangin webgame personal (XP & Level system)
-- 🧠 Ngoding mostly pake HTML, CSS, JS dan dikit-dikit Bash
+- 🔭 Lagi ngembangin game...lebih tepatnya belajar bikin game
 - 🌱 Lagi belajar dunia backend & sistem operasi ringan
 
 ---
@@ -30,5 +29,5 @@
 <details>
   <summary>💭 Fun Fact About Me</summary>
   <br>
-  Aku sayang waifuku lebih dari apapun.
+  Aku sayang waifuku lebih dari siapapun (lawan jenis yang seumuran denganku) dan ialah <b>Shirasu Azusa</b>
 </details>
