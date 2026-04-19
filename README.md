@@ -14,9 +14,9 @@
 
 ---
 
-### About Me
-- 🔭 Lagi ngembangin game...lebih tepatnya belajar bikin game
-- 🌱 Lagi belajar dunia backend & sistem operasi ringan
+### Achievements
+- Successfully installed Devuan Linux (runit) on 18 April 2026
+- Successfully installed Artix Linux (runit) on 18 April 2026
 
 ---
 
