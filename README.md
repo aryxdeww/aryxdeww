@@ -1,21 +1,20 @@
 <h1 align="center">Hi, I'm Arya 👋</h1>
 
 <p align="center">
-  💻 Pengendali Celeron | 🐧 Linux Enthusiast | 🌸 Nightingale Anarchy <br>
+  Linux Enthusiast | Fictophile | Stargazer <br>
   "Member sider grup FB : IMPHNEN XD"
 </p>
 
 ---
 
-### 🧰 Tools & Setup
-- 🐧 Arch Linux
-- 💻 Celeron N2840 2Ghz + DDR3 2Gig ram
-- 🧩 Main terminal: Kitty
-- 🎨 Editor: LiteXL & nano
+### Device
+- Main OS: Arch Linux x86_64 & Arch Linux ARM armv81
+- Laptop: Asus X453MA - Celeron N2840 2Ghz + DDR3 2Gig ram
+- Phone: Infinix Hot 60 Pro - Mediatek Helio G200 + 8GiB Ram /256GiB emmc (via termux, )
 
 ---
 
-### 🌟 About Me
+### About Me
 - 🔭 Lagi ngembangin game...lebih tepatnya belajar bikin game
 - 🌱 Lagi belajar dunia backend & sistem operasi ringan
 
