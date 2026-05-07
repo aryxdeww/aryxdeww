@@ -2,7 +2,7 @@
 
 <p align="center">
   Linux Enthusiast | Fictophile | Stargazer <br>
-  "Member sider grup FB : IMPHNEN XD"
+  "sadness is beautiful, loneliness that's tragical"
 </p>
 
 ---
