@@ -10,7 +10,7 @@
 ### Device
 - Main OS: Arch Linux x86_64 & Arch Linux ARM armv81
 - Laptop: Asus X453MA - Celeron N2840 2Ghz + DDR3 2Gig ram
-- Phone: Infinix Hot 60 Pro - Mediatek Helio G200 + 8GiB Ram /256GiB emmc (via termux, )
+- Phone: Infinix Hot 60 Pro - Mediatek Helio G200 + 8GiB Ram /256GiB emmc (via termux)
 
 ---
 
