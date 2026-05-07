@@ -17,7 +17,8 @@
 ### Achievements
 - Successfully installed Devuan Linux (runit) on 18 April 2026
 - Successfully installed Artix Linux (runit) on 18 April 2026
-
+- Successfully installed Arch linux on 10 June 2025
+- First time installing Linux : Zorin OS Lite on 26 September 2025
 ---
 
 ### 🌐 Online Presence
