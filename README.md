@@ -8,7 +8,7 @@
 ---
 
 ### Device
-- Main OS: Zorin OS Lite 18.1 x86_64
+- Main OS: Debian 13 Trixie
 - Laptop: Asus X453MA - Celeron N2840 2Ghz + DDR3 8Gig ram
 
 ---
